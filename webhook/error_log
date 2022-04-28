@@ -1,0 +1,6 @@
+[10-Apr-2022 00:01:18 Europe/Tallinn] PHP Fatal error:  Uncaught Firebase\JWT\SignatureInvalidException: Signature verification failed in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:122
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_montonio.php(80): Firebase\JWT\JWT::decode('eyJhbGciOiJIUzI...', 'VFUhuW8vIvvSgU3...', Array)
+#1 /home/scancovi/glam.rent/testing/webhook/montonio.php(17): Montonio->Validate('eyJhbGciOiJIUzI...', '3')
+#2 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 122

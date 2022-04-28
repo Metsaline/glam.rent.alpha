@@ -1,0 +1,104 @@
+[09-Apr-2022 16:27:38 Europe/Tallinn] PHP Notice:  Undefined variable: main in /home/scancovi/glam.rent/testing/ajax/order.php on line 12
+[09-Apr-2022 16:27:38 Europe/Tallinn] PHP Fatal error:  Uncaught Error: Call to a member function bronProduct() on null in /home/scancovi/glam.rent/testing/ajax/order.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/scancovi/glam.rent/testing/ajax/order.php on line 12
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Undefined index: cart_id in /home/scancovi/glam.rent/testing/lib/class_order.php on line 66
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 67
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 70
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 71
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 72
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 74
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:21:09 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Undefined index: cart_id in /home/scancovi/glam.rent/testing/lib/class_order.php on line 66
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 67
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 70
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 71
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 72
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_order.php on line 74
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:21:17 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:21:49 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:21:49 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:22:32 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:22:32 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:23:01 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:23:01 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 76
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Undefined variable: o in /home/scancovi/glam.rent/testing/lib/class_order.php on line 78
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 39
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 42
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 44
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 45
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 45
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 46
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 47
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Notice:  Trying to access array offset on value of type null in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 49
+[09-Apr-2022 22:23:53 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 53 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(53): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(NULL)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:24:16 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 53 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(53): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:29:04 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 53 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(53): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:29:30 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 53 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(53): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:30:30 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 53 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(53): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:31:54 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 54 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(54): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:43:21 Europe/Tallinn] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/scancovi/glam.rent/testing/lib/class_,montonio.php on line 54 and at least 3 expected in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:178
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(54): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...')
+#1 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#2 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#3 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 178
+[09-Apr-2022 22:45:00 Europe/Tallinn] PHP Fatal error:  Uncaught DomainException: Algorithm not supported in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php:221
+Stack trace:
+#0 /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php(197): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1Q...', 'VFUhuW8vIvvSgU3...', '1d57823e-5d69-4...')
+#1 /home/scancovi/glam.rent/testing/lib/class_,montonio.php(54): Firebase\JWT\JWT::encode(Array, 'VFUhuW8vIvvSgU3...', '1d57823e-5d69-4...')
+#2 /home/scancovi/glam.rent/testing/lib/class_order.php(78): Montonio->Pay(Array)
+#3 /home/scancovi/glam.rent/testing/ajax/order.php(21): Order->OrderPay()
+#4 {main}
+  thrown in /home/scancovi/glam.rent/testing/lib/montonio/firebase/php-jwt/src/JWT.php on line 221
+[09-Apr-2022 23:36:18 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_,montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:18 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_,montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:21 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_,montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:21 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_,montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:30 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_,montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:30 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_,montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:32 Europe/Tallinn] PHP Warning:  require_once(/home/scancovi/glam.rent/testing/lib/class_,montonio.php): failed to open stream: No such file or directory in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:36:32 Europe/Tallinn] PHP Fatal error:  require_once(): Failed opening required '/home/scancovi/glam.rent/testing/lib/class_,montonio.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scancovi/glam.rent/testing/lib/class_order.php on line 82
+[09-Apr-2022 23:37:16 Europe/Tallinn] PHP Notice:  Undefined index: hash in /home/scancovi/glam.rent/testing/lib/class_order.php on line 96
+[09-Apr-2022 23:38:01 Europe/Tallinn] PHP Notice:  Undefined index: hash in /home/scancovi/glam.rent/testing/lib/class_order.php on line 96
+[09-Apr-2022 23:39:28 Europe/Tallinn] PHP Notice:  Undefined index: hash in /home/scancovi/glam.rent/testing/lib/class_order.php on line 96

@@ -1,0 +1,1 @@
+<?php  define("_VALID_PHP", true);  require_once("init.php");?><?php$_SESSION = array();session_destroy();redirect_to("index.php");?>
