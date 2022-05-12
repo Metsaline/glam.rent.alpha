@@ -8,10 +8,10 @@
 	Database Constants - these constants refer to
 	the database configuration settings.
 	**/
-		define('DB_SERVER', 'localhost'); 
-		define('DB_USER', 'scancovi_glam');  
-		define('DB_PASS', 'testing@@@');  
-		define('DB_DATABASE', 'scancovi_glam'); 
+		define('DB_SERVER', ''); 
+		define('DB_USER', '');  
+		define('DB_PASS', '');  
+		define('DB_DATABASE', ''); 
 
 	/** 
 	Show MySql Errors.

@@ -11,14 +11,14 @@ error_reporting(E_ALL);
 
   class Montonio
   {
-//	private $access_key = '6add5c24-727b-4c69-8793-b08792f4a3b3';
-//	private $secret_key = 'hwmL3D40FlOAFzMr1ALxsw13rgju3yE87LPtDLUCnNu4';
-//	private $url = 'https://payments.montonio.com?payment_token=';
+//	private $access_key = '';
+//	private $secret_key = '';
+//	private $url = '';
 
 
-	private $access_key = '1d57823e-5d69-41d7-8c12-2a31e0a53105';
-	private $secret_key = 'VFUhuW8vIvvSgU3NM5v8YebD/SrD0awG4sUh+QmjkoNx';
-	private $url = 'https://sandbox-payments.montonio.com?payment_token=';
+	private $access_key = '';
+	private $secret_key = '';
+	private $url = '';
 	
 	
       /**
